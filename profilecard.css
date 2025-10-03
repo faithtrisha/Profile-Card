@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(255, 255, 255);
+    
+}
+div{
+    border: 7px dotted;
+    border-style: dotted 25px;
+    border-color: rgb(235, 129, 217);
+    padding: 50px;
+    margin-top: 50px;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+p{
+    font-family: sans-serif ; size: 75px; color: rgb(0, 0, 0);
+}
+
+h1{
+    font-family: sans-serif ; size: 75px; text-decoration-line: underline; color: rgb(167, 147, 147);
+}
+
+h4{
+    font-family: sans-serif ; size: 75px; text-decoration-line: underline; color:  rgb(80, 79, 79);
+}
